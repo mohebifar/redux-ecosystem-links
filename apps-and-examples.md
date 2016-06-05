@@ -61,6 +61,9 @@
 - **Jenkins BlueOcean Plugin**  
   https://github.com/jenkinsci/blueocean-plugin  
   A new user experience and UI for Jenkins.  The "Dashboard" and "Web" pieces are built on React and Redux.
+  
+- **Grafgiti**  
+  https://github.com/mohebifar/grafgiti  
 
 #### Redux Usage Stories
 
@@ -72,7 +75,7 @@
   https://speakerdeck.com/chrisui/real-world-redux  
   Explores the real world experiences of using Redux everyday within a rapidly scaling team and product.
   
-- **KarmaCRM: Launching an Enterprise React & Redux App – Part 1**  
+- **KarmaCRM: Launching an Enterprise React & Redux App â€“ Part 1**  
   http://jpnarowski.com/enterprise-react-redux-part-1/  
   A combination tutorial and lessons learned series.
   
